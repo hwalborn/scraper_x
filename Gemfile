@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 ruby '2.3.3'
 
+gem "rack-flash-session"
 gem 'rake'
 gem "rails"
 gem 'pry'
