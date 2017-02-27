@@ -1,4 +1,4 @@
-require 'bundler/setup'
+require 'bundler/setup', 1.13.7
 require 'open-uri'
 Bundler.require
 
