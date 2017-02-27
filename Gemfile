@@ -7,6 +7,8 @@ gem "rails"
 gem 'pry'
 gem 'nokogiri'
 gem 'sinatra'
+gem 'activerecord', :require => 'active_record'
+gem 'sinatra-activerecord', :require => 'sinatra/activerecord'
 gem 'shotgun'
 gem 'thin'
 gem 'tux'
