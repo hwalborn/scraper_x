@@ -50,7 +50,7 @@ h2.title{
   font-family: 'Cinzel', serif;
 }
 
-a .dirty:hover {
+a.dirty:hover {
   color: rgba(255, 0, 255, 1);
 }
 
@@ -60,7 +60,7 @@ a .dirty:hover {
   font-size: 3em;
 }
 
-a .news:hover {
+a.news:hover {
   color: white;
 }
 
