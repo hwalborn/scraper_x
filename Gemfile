@@ -1,7 +1,9 @@
 # frozen_string_literal: true
+gem 'bundler'
+
 source "https://rubygems.org"
 ruby '2.3.3'
-# 
+#
 # gem 'therubyracer'
 # gem 'less-rails-bootstrap'
 gem "rack-flash-session"

@@ -6,7 +6,7 @@ class ApplicationController < Sinatra::Base
   end
 
   post '/result' do
-    url = "http://www.pornhub.com/video/search?search="
+    url = "https://www.pornhub.com/video/search?search="
     arr = params[:subject].split(" ")
     arr.each_with_index do |word, index|
       if index == 0
