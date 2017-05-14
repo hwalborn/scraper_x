@@ -1,4 +1,6 @@
 require 'bundler/setup'
+require 'sinatra/base'
+require 'sinatra/assetpack'
 require 'open-uri'
 Bundler.require
 
